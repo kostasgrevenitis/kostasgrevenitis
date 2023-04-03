@@ -42,7 +42,7 @@
 ---
 
 #### Latest posts
-
+- 📝 [OOP cohesion, coupling and heuristics](https://grevenitis.me/2022/07/16/oop-cohesion-coupling-and-heuristics/)
 - 📝 [The software requirements bitter feelings](https://grevenitis.me/2021/03/26/the-software-requirements-bitter-feelings/)
 - 📝 [Team communication](https://grevenitis.me/2021/02/16/team-communication/)
 - 📝 [Point of view](https://grevenitis.me/2020/12/24/point-of-view/)
