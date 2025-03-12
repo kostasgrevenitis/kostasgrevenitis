@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://grevenitis.me/wp-content/uploads/2022/07/logos-03.png" alt="Konstantinos Grevenitis logo" width="400">
-</p>
-
 ### Hello world 👋
 
 #### About me
