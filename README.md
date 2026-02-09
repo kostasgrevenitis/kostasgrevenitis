@@ -1,4 +1,4 @@
-<img width="951" height="1809" alt="Take_back_data_flow_diagram" src="https://github.com/user-attachments/assets/03678953-63a1-4a95-bc7a-a3e970d6bdf9" />### Hello world 👋
+### Hello world 👋
 
 #### About me
 
