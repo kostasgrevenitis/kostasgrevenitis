@@ -46,5 +46,3 @@ My combined expertise in software architecture, data engineering, and technical 
 </a>
 
 ---
-
-Logo design by [Giorgos Michalis](https://www.omega-point.net/)
