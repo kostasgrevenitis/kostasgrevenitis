@@ -1,20 +1,20 @@
-### Hello world 👋
+<img width="951" height="1809" alt="Take_back_data_flow_diagram" src="https://github.com/user-attachments/assets/03678953-63a1-4a95-bc7a-a3e970d6bdf9" />### Hello world 👋
 
 #### About me
 
-- ⚡ .NET software engineer
-- ⚡ More than ten years of experience
-- ⚡ I hold a master’s degree in computational methods and applications.
-- ⚡ My focus is on software design, requirement analysis, flexible software development, code quality and product management. 
-- ⚡ I also embrace principles of product excellency, collaboration, domain knowledge and innovation.
+I am a software engineer and technical lead with deep experience in designing and developing .NET‑based software systems, architecting end‑to‑end data management platforms, and implementing high‑quality data and database schemas. My work spans the full software development lifecycle, from requirements analysis and system architecture to implementation, optimization, and long‑term maintainability. I specialize in building modular, scalable solutions using the .NET ecosystem, applying best practices in software engineering, clean architecture, and data modeling.
+
+Throughout my career, I have led technical teams and coordinated engineering activities across distributed environments. This includes managing development workflows, conducting code reviews, ensuring adherence to architectural standards, and overseeing technical communication through regular team calls and consortium meetings. I am proficient in translating complex functional and technical requirements into actionable implementation plans that support interoperability, data integrity, and system robustness.
+In addition to my engineering responsibilities, I have delivered specialized workshops and technical training sessions, focusing on software development methodologies, data management practices, and platform‑specific technologies. I place a strong emphasis on clarity, structure, and practical applicability when developing training material or presenting to technical and non‑technical audiences.
+
+My combined expertise in software architecture, data engineering, and technical leadership allows me to contribute effectively to complex, multi‑stakeholder projects that require both hands‑on development and strategic guidance.
 
 ---
 
 #### Where to find me
 
-- 🔗 [Blog](https://grevenitis.me/)
+- 🔗 [Blog](https://substack.com/@konstantinosgrevenitis)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/konstantinosgrevenitis/)
-- 🔗 [Twitter](https://twitter.com/grevenitisk)
 - 🔗 [Research gate](https://www.researchgate.net/profile/Konstantinos_Grevenitis)
 
 ---
@@ -30,23 +30,9 @@
 
 #### Current activities
 
-- 👨‍💻 I currently work as as IT solutions architect for <a href="http://holonix.it/">Holonix Slr</a>. 
-- 🔭 I’m trying too keep up developing my .NET projects.
+- 👨‍💻 I currently work as as IT solutions architect for <a href="https://syxis.eu/">Syxis</a>. 
 - 🌱 I speak Greek, English and I am currently learning Italian.
 - 💬 Ask me anything.
-
----
-
-#### Latest posts
-- 📝 [OOP cohesion, coupling and heuristics](https://grevenitis.me/2022/07/16/oop-cohesion-coupling-and-heuristics/)
-- 📝 [The software requirements bitter feelings](https://grevenitis.me/2021/03/26/the-software-requirements-bitter-feelings/)
-- 📝 [Team communication](https://grevenitis.me/2021/02/16/team-communication/)
-- 📝 [Point of view](https://grevenitis.me/2020/12/24/point-of-view/)
-- 📝 [Think don't just execute](https://grevenitis.me/2020/12/13/think-dont-just-execute/)
-- 📝 [Simulate a bank run with emotional responses, with Agent Based Economics](https://grevenitis.me/2020/12/06/simulate-a-bank-run-with-emotional-responses-with-agent-based-economics/)
-- 📝 [C# extension methods to save the day](https://grevenitis.me/2020/11/29/c-extension-methods-to-save-the-day/)
-- 📝 [When the job title fits the personality and not the opposite.](https://grevenitis.me/2020/10/20/when-the-job-title-fits-the-personality-and-not-the-opposite/)
-
 ---
 
 #### Stats
