@@ -37,12 +37,6 @@ My combined expertise in software architecture, data engineering, and technical 
 
 #### Stats
 
-<a href="https://github.com/kostasgrevenitis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostasgrevenitis&theme=graywhite&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/kostasgrevenitis">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kostasgrevenitis&show_icons=true&theme=graywhite&line_height=27" alt="Kostantinos's github stats"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostasgrevenitis)](https://github.com/kostasgrevenitis/github-readme-stats)
 
 ---
